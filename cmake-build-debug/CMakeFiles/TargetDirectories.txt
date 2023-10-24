@@ -1,0 +1,3 @@
+C:/Users/roman/OneDrive - bwedu/Studium/HKA/2. Semester/Softwareprojekt/Vorlesung/Vorlesungscode/SWP-Lectures/cmake-build-debug/CMakeFiles/SWP_Lectures.dir
+C:/Users/roman/OneDrive - bwedu/Studium/HKA/2. Semester/Softwareprojekt/Vorlesung/Vorlesungscode/SWP-Lectures/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/roman/OneDrive - bwedu/Studium/HKA/2. Semester/Softwareprojekt/Vorlesung/Vorlesungscode/SWP-Lectures/cmake-build-debug/CMakeFiles/rebuild_cache.dir

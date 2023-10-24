@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SWP_Lectures",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "SWP_Lectures::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SWP_Lectures-Debug-c06db4142e7142fc66e6.json",
+					"name" : "SWP_Lectures",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/roman/OneDrive - bwedu/Studium/HKA/2. Semester/Softwareprojekt/Vorlesung/Vorlesungscode/SWP-Lectures/cmake-build-debug",
+		"source" : "C:/Users/roman/OneDrive - bwedu/Studium/HKA/2. Semester/Softwareprojekt/Vorlesung/Vorlesungscode/SWP-Lectures"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
